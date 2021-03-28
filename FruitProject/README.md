@@ -1,4 +1,4 @@
-# Freelance
+# Mega Fruit
 In this game for android, all graphics were drawn and provided by the customer.
 
 The game includes a menu and a minute level, for which you need to collect as many randomly flying fruits as possible. 
